@@ -1,1 +1,1 @@
-# think_bayes is an intesresting abd very useful book ISBN 978-1-492-08946-9
+# think_bayes is a very interesting and useful book ISBN 978-1-492-08946-9
